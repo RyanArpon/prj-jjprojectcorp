@@ -1,11 +1,3 @@
-/**
-* Template Name: Constructify
-* Template URL: https://bootstrapmade.com/constructify-bootstrap-construction-website-template/
-* Updated: Feb 11 2026 with Bootstrap v5.3.8
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
 (function() {
   "use strict";
 
